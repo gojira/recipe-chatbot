@@ -15,3 +15,5 @@ typing-extensions
 matplotlib
 seaborn
 plotly
+python-fasthtml
+monsterui

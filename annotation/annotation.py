@@ -4,7 +4,7 @@ import os
 import json
 import glob
 
-DATASET_DIR = os.path.join(os.path.dirname(__file__), "golden_dataset")
+DATASET_DIR = os.path.join(os.path.dirname(__file__), "traces")
 
 app, rt = mui.fast_app(hdrs=mui.Theme.blue.headers())
 
